@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Beer Tap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_test">MenuApp</string>
+    <string name="title_activity_place_order">PlaceOrderActivity</string>
+    <string name="title_activity_view_cart">View Cart</string>
+    <string name="title_activity_receipt">Receipt</string>
+
+</resources>

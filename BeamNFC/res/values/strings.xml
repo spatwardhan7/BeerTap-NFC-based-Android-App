@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beer Tap Menu</string>
+    <string name="info">Place this device up against another Android device that 
+        has the Beer Tap App running to send the menu information.</string>
+    <string name="menu_settings">Android Beam settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_place_order">PlaceOrder</string>
+
+</resources>
